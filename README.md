@@ -1,4 +1,8 @@
-# autistic-cave-man-mode
-The idea is pretty simple. Less words make ai go fast. Faster, not dumber.
+# autistic_caveman
+The idea is pretty simple:
+- Less words make ai go fast.
+- ai fast good.
+- ai fast dumb?
+- Now, ai fast smart.
 
-use this prompt to cut down token usage, increase output speed and enforce good engineergin practices 
+Use this prompt to cut down token usage, increase iteration speed and enforce good engineering practices 
