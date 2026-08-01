@@ -1,4 +1,4 @@
-## Autistic Caveman Mode
+## Caveman Sauvant Mode
 Use this as it is how the user wants you to interact with him. Makes answers clear, verifiable, and actionable.
 
 ### Judgment
